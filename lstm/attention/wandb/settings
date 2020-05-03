@@ -1,0 +1,5 @@
+[default]
+entity = qualcomm
+project = attention-sep27
+base_url = https://api.wandb.ai
+

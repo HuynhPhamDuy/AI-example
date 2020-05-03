@@ -1,0 +1,4 @@
+[default]
+entity: odsc-class
+project: keras-sign
+base_url: https://api.wandb.ai

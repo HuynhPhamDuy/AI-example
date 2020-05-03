@@ -1,0 +1,4 @@
+[default]
+entity = odsc-class
+project = seq2seq
+base_url = https://api.wandb.ai

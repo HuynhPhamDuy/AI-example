@@ -1,0 +1,4 @@
+[default]
+entity: bloomberg-class
+project: audio-nov6
+base_url: https://api.wandb.ai

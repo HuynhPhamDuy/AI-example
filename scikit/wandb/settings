@@ -1,0 +1,5 @@
+[default]
+entity = bloomberg-class
+project = text-sentiment
+base_url = https://api.wandb.ai
+
